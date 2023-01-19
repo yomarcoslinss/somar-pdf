@@ -1,0 +1,21 @@
+Projeto console simples com a função de extrair arquivos em formato PDF e retornar todos
+valores monetários presente no documento;
+
+Para usar o programa, siga estes passos:
+
+1 - Mova o seu arquivo PDF para a pasta Assets;
+2 - Abra o arquivo Program.cs que está presente na pasta raiz do projeto;
+3 - Vá até a linha 8 e entre os parênteses, insira o nome do seu arquivo PDF.  
+
+Exemplo:
+
+var texto = lerPdf.ExtrairPdf("./Assets/ArquivoTeste1.pdf");
+
+Em seguida, será exibido no seu console somente os valores monetários R$ no console (linha após linha).
+
+Obs: Conforme foi dito no README.md do projeto, você deve instalar o .NET SDK na sua máquina caso não tenha.
+Você também deverá instalar as seguintes dependências:
+
+• dotnet add package itext7
+• dotnet add package System.Text.RegularExpressions
+
