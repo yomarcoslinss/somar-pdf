@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LLZd4bzmwiRTJBE1HUD+D+v2xDjgVSSorEargee/2CaBxMdEP1hK+2pEXSg3v0KiGvkMykCr3OqjUzzYVUXOzw==",
+  "dgSpecHash": "uTOWquoPk8ndofD5FUjdL+Kk/YQvqVtd+vlmfDflh5/wJ9GIWCKjNjZPZDLmgLqiDheTkMjtVr6OtfIHPapE9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yomarcoslinss\\Desktop\\somar-pdf\\somar-pdf.csproj",
+  "projectFilePath": "C:\\Users\\yomarcoslinss\\Documents\\yomarcoslinss (estudos)\\PROJETOS CONCLUIDOS\\somar-pdf\\somar-pdf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yomarcoslinss\\.nuget\\packages\\itext7\\7.2.5\\itext7.7.2.5.nupkg.sha512",
     "C:\\Users\\yomarcoslinss\\.nuget\\packages\\itext7.commons\\7.2.5\\itext7.commons.7.2.5.nupkg.sha512",

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yomarcoslinss\\Desktop\\somar-pdf\\somar-pdf.csproj": {}
+    "C:\\Users\\yomarcoslinss\\Documents\\yomarcoslinss (estudos)\\PROJETOS CONCLUIDOS\\somar-pdf\\somar-pdf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yomarcoslinss\\Desktop\\somar-pdf\\somar-pdf.csproj": {
+    "C:\\Users\\yomarcoslinss\\Documents\\yomarcoslinss (estudos)\\PROJETOS CONCLUIDOS\\somar-pdf\\somar-pdf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yomarcoslinss\\Desktop\\somar-pdf\\somar-pdf.csproj",
+        "projectUniqueName": "C:\\Users\\yomarcoslinss\\Documents\\yomarcoslinss (estudos)\\PROJETOS CONCLUIDOS\\somar-pdf\\somar-pdf.csproj",
         "projectName": "somar-pdf",
-        "projectPath": "C:\\Users\\yomarcoslinss\\Desktop\\somar-pdf\\somar-pdf.csproj",
+        "projectPath": "C:\\Users\\yomarcoslinss\\Documents\\yomarcoslinss (estudos)\\PROJETOS CONCLUIDOS\\somar-pdf\\somar-pdf.csproj",
         "packagesPath": "C:\\Users\\yomarcoslinss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yomarcoslinss\\Desktop\\somar-pdf\\obj\\",
+        "outputPath": "C:\\Users\\yomarcoslinss\\Documents\\yomarcoslinss (estudos)\\PROJETOS CONCLUIDOS\\somar-pdf\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\yomarcoslinss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
