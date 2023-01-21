@@ -10,16 +10,19 @@
 
 <h2>Rodar o projeto</h2>
 <p>Clone esse projeto com o comando:</p>
+
 ``` 
 git clone https://github.com/yomarcoslinss/somar-pdf.git 
 ```
 
 <p>Agora instale as dependências do projeto com o comando:</p>
+
 ```
 dotnet restore
 ```
 
 <p>Por fim, execute o comando abaixo para iniciar o projeto</p>
+
 ```
 dotnet run
 ```
